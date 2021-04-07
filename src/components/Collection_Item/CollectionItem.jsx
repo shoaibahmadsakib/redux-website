@@ -14,7 +14,7 @@ const CollectionItem= ({ item,addItem})=>{
              backgroundImage:`url(${imageUrl})`
           }}
        />
-
+          
 
        <div className="collection-footer">
            <span className="name">{name}</span>
