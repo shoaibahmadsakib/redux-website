@@ -115,7 +115,7 @@ const SHOP_DATA = [
       }
     ]
   },
-   {
+  {
     id: 3,
     title: 'Jackets',
     routeName: 'jackets',
@@ -152,7 +152,7 @@ const SHOP_DATA = [
       }
     ]
   },
- {
+  {
     id: 4,
     title: 'Womens',
     routeName: 'womens',
